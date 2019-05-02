@@ -4,17 +4,9 @@ baseline300ForGemStone: spec
 		for: #gemstone
 		do: [ 
 			spec
-				project: 'GsCore'
-				with: [ 
-					spec
-						className: 'ConfigurationOfGsCore';
-						versionString: #bleedingEdge;
-						repository: 'http://seaside.gemstone.com/ss/MetacelloRepository' ].
-			spec
 				package: 'Magritte-Model'
 					with: [ 
 							spec
-								requires: #('GsCore');
 								includes: #('Magritte-GemStone-Model') ];
 				package: 'Magritte-Tests-Model' with: [ spec includes: #('Magritte-Tests-GemStone-Model') ];
 				package: 'Magritte-Seaside' with: [ spec includes: #('Magritte-GemStone-Seaside') ];
