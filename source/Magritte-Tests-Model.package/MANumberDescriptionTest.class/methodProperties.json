@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"isAbstract" : " 05/03/2019 08:00:40" },
+	"instance" : {
+		"actualClass" : " 05/03/2019 08:00:40",
+		"excludedInstance" : " 05/03/2019 08:00:40",
+		"includedInstance" : " 05/03/2019 08:00:40",
+		"maxInstance" : " 05/03/2019 08:00:40",
+		"minInstance" : " 05/03/2019 08:00:40",
+		"testBeInteger" : " 05/03/2019 08:00:40",
+		"testBeNegative" : " 05/03/2019 08:00:40",
+		"testBePositive" : " 05/03/2019 08:00:40",
+		"testFromString" : " 05/03/2019 08:00:40",
+		"testValidateConditions" : " 05/03/2019 08:00:40" } }

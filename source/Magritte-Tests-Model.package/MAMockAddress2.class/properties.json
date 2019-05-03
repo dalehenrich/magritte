@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "MAMockAddress",
 	"category" : "Magritte-Tests-Model-Mocks",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "MAMockAddress2",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MAMockAddress",
+	"type" : "normal" }

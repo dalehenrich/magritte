@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"isAbstract" : " 05/03/2019 08:00:40" },
+	"instance" : {
+		"actualClass" : " 05/03/2019 08:00:40",
+		"setUp" : " 05/03/2019 08:00:40",
+		"tearDown" : " 05/03/2019 08:00:40",
+		"testComparing" : " 05/03/2019 08:00:40",
+		"testContents" : " 05/03/2019 08:00:40",
+		"testFilename" : " 05/03/2019 08:00:40",
+		"testIsEmpty" : " 05/03/2019 08:00:40",
+		"testMimetype" : " 05/03/2019 08:00:40",
+		"testMimetypeApplication" : " 05/03/2019 08:00:40",
+		"testMimetypeAudio" : " 05/03/2019 08:00:40",
+		"testMimetypeDefault" : " 05/03/2019 08:00:40",
+		"testMimetypeImage" : " 05/03/2019 08:00:40",
+		"testMimetypeText" : " 05/03/2019 08:00:40",
+		"testMimetypeVideo" : " 05/03/2019 08:00:40" } }

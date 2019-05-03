@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"isAbstract" : " 05/03/2019 08:00:40" },
+	"instance" : {
+		"actualClass" : " 05/03/2019 08:00:40",
+		"optionInstances" : " 05/03/2019 08:00:40",
+		"setUp" : " 05/03/2019 08:00:40",
+		"testAllOptions" : " 05/03/2019 08:00:40",
+		"testAllOptionsWithExisting" : " 05/03/2019 08:00:40",
+		"testAllOptionsWithNil" : " 05/03/2019 08:00:40",
+		"testCopyOptions" : " 05/03/2019 08:00:40",
+		"testFromStringInvalid" : " 05/03/2019 08:00:40",
+		"testOptions" : " 05/03/2019 08:00:40",
+		"testOptionsAndLabels" : " 05/03/2019 08:00:40",
+		"testOptionsTextual" : " 05/03/2019 08:00:40",
+		"testReferencePrinting" : " 05/03/2019 08:00:40",
+		"testSorted" : " 05/03/2019 08:00:40" } }

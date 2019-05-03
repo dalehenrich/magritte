@@ -1,15 +1,16 @@
 {
-	"commentStamp" : "",
-	"super" : "MADescriptionTest",
 	"category" : "Magritte-Tests-Model-Description",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
 		"child1",
 		"child2",
-		"child3"
-	],
+		"child3" ],
 	"name" : "MAContainerTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MADescriptionTest",
+	"type" : "normal" }

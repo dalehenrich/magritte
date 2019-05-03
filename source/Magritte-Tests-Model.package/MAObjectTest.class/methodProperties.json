@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"buildTestClassFor:" : " 05/03/2019 08:00:40",
+		"isAbstract" : " 05/03/2019 08:00:40",
+		"packageNamesUnderTest" : " 05/03/2019 08:00:40",
+		"shouldInheritSelectors" : " 05/03/2019 08:00:40" },
+	"instance" : {
+		"actualClass" : " 05/03/2019 08:00:40",
+		"instance" : " 05/03/2019 08:00:40",
+		"testCopy" : " 05/03/2019 08:00:40",
+		"testCopyProperties" : " 05/03/2019 08:00:40",
+		"testEqual" : " 05/03/2019 08:00:40",
+		"testHash" : " 05/03/2019 08:00:40",
+		"testIsDescription" : " 05/03/2019 08:00:40",
+		"testProperties" : " 05/03/2019 08:00:40",
+		"testPropertiesAt" : " 05/03/2019 08:00:40",
+		"testPropertiesAtIfAbsent" : " 05/03/2019 08:00:40",
+		"testPropertiesAtIfAbsentPut" : " 05/03/2019 08:00:40",
+		"testPropertiesAtIfPresent" : " 05/03/2019 08:00:40",
+		"testPropertiesAtPut" : " 05/03/2019 08:00:40",
+		"testPropertiesHas" : " 05/03/2019 08:00:40",
+		"testSanity" : " 05/03/2019 08:00:40" } }

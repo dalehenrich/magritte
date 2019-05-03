@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "MACachedMementoTest",
 	"category" : "Magritte-Tests-Model-Memento",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "MACheckedMementoTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MACachedMementoTest",
+	"type" : "normal" }

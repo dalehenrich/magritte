@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"isAbstract" : " 05/03/2019 08:00:40" },
+	"instance" : {
+		"actualClass" : " 05/03/2019 08:00:40",
+		"excludedInstance" : " 05/03/2019 08:00:40",
+		"maxInstance" : " 05/03/2019 08:00:40",
+		"minInstance" : " 05/03/2019 08:00:40",
+		"testInfToInf" : " 05/03/2019 08:00:40",
+		"testInfToVal" : " 05/03/2019 08:00:40",
+		"testMax" : " 05/03/2019 08:00:40",
+		"testMin" : " 05/03/2019 08:00:40",
+		"testMinMax" : " 05/03/2019 08:00:40",
+		"testRangeErrorMessage" : " 05/03/2019 08:00:40",
+		"testRangeErrorMessageGenerated" : " 05/03/2019 08:00:40",
+		"testValToInf" : " 05/03/2019 08:00:40",
+		"testValToVal" : " 05/03/2019 08:00:40",
+		"testValidateSpecific" : " 05/03/2019 08:00:40" } }

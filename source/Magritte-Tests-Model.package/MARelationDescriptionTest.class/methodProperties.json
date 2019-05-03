@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"isAbstract" : " 05/03/2019 08:00:40" },
+	"instance" : {
+		"actualClass" : " 05/03/2019 08:00:40",
+		"addressInstance1" : " 05/03/2019 08:00:40",
+		"addressInstance2" : " 05/03/2019 08:00:40",
+		"setUp" : " 05/03/2019 08:00:40",
+		"shouldSkipStringTests" : " 05/03/2019 08:00:40",
+		"testCopyClasses" : " 05/03/2019 08:00:40" } }

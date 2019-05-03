@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"isAbstract" : " 05/03/2019 08:00:40" },
+	"instance" : {
+		"actualClass" : " 05/03/2019 08:00:40",
+		"testConflictCommit" : " 05/03/2019 08:00:40",
+		"testConflictReset" : " 05/03/2019 08:00:40",
+		"testOriginal" : " 05/03/2019 08:00:40",
+		"testValidateConflictCommit" : " 05/03/2019 08:00:40",
+		"testValidateConflictReset" : " 05/03/2019 08:00:40" } }

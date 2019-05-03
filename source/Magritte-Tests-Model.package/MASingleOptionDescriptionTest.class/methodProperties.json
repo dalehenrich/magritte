@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"isAbstract" : " 05/03/2019 08:00:40" },
+	"instance" : {
+		"actualClass" : " 05/03/2019 08:00:40",
+		"includedInstance" : " 05/03/2019 08:00:40",
+		"testAllOptionsOptional" : " 05/03/2019 08:00:40",
+		"testAllOptionsWithExtensible" : " 05/03/2019 08:00:40",
+		"testAllOptionsWithOptional" : " 05/03/2019 08:00:40",
+		"testExtensible" : " 05/03/2019 08:00:40",
+		"testGroupBy" : " 05/03/2019 08:00:40",
+		"testGroupOf" : " 05/03/2019 08:00:40",
+		"testOptionsAndLabelsFromString" : " 05/03/2019 08:00:40",
+		"testOptionsAndLabelsToString" : " 05/03/2019 08:00:40",
+		"testValidationExtensible" : " 05/03/2019 08:00:40" } }

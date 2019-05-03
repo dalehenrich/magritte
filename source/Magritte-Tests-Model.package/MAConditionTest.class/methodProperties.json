@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testConjunctive" : " 05/03/2019 08:00:40",
+		"testDisjunctive" : " 05/03/2019 08:00:40",
+		"testNegation" : " 05/03/2019 08:00:40",
+		"testReceiverSelector" : " 05/03/2019 08:00:40",
+		"testSelector" : " 05/03/2019 08:00:40",
+		"testSelectorArgument" : " 05/03/2019 08:00:40" } }

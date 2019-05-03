@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "MAOptionDescriptionTest",
 	"category" : "Magritte-Tests-Model-Description",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "MAMultipleOptionDescriptionTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MAOptionDescriptionTest",
+	"type" : "normal" }

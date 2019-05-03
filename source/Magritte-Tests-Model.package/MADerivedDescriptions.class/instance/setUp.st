@@ -3,4 +3,4 @@ setUp
 	super setUp.
 	
 	baseModel := MAMockAddress new.
-	derivedModel := MAMockAddress2 new. 
+	derivedModel := MAMockAddress2 new.

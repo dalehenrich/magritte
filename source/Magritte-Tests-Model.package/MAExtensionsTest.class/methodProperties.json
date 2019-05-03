@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"does:haveEqualElementsTo:" : " 05/03/2019 08:00:40",
+		"testAsString" : " 05/03/2019 08:00:40",
+		"testCopyWithAll" : " 05/03/2019 08:00:40",
+		"testCopyWithoutFirst" : " 05/03/2019 08:00:40",
+		"testFileSize" : " 05/03/2019 08:00:40",
+		"testHasEqualElements" : " 05/03/2019 08:00:40",
+		"testIntersection" : " 05/03/2019 08:00:40",
+		"testIsCollection" : " 05/03/2019 08:00:40",
+		"testIsUnary" : " 05/03/2019 08:00:40",
+		"testLines" : " 05/03/2019 08:00:40",
+		"testMatches" : " 05/03/2019 08:00:40",
+		"testMoveDown" : " 05/03/2019 08:00:40",
+		"testMoveUp" : " 05/03/2019 08:00:40",
+		"testReduce" : " 05/03/2019 08:00:40",
+		"testSort" : " 05/03/2019 08:00:40",
+		"testSubstringCaseSensitive" : " 05/03/2019 08:00:40",
+		"testValidationError" : " 05/03/2019 08:00:40" } }
