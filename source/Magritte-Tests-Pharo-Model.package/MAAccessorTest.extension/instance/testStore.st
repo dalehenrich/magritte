@@ -1,4 +1,4 @@
-tests-identity
+*magritte-tests-pharo-model
 testStore
 	| evaluator |
 	evaluator := GRPlatform current
